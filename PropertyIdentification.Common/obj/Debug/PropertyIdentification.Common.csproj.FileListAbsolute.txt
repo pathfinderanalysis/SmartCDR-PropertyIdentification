@@ -1,0 +1,13 @@
+C:\Users\Evanthjainh\Documents\Visual Studio 2013\Projects\SmartCDR-PropertyIdenAutomation\PropertyIdentification.Common\bin\Debug\PropertyIdentification.Common.dll.config
+C:\Users\Evanthjainh\Documents\Visual Studio 2013\Projects\SmartCDR-PropertyIdenAutomation\PropertyIdentification.Common\bin\Debug\PropertyIdentification.Common.dll
+C:\Users\Evanthjainh\Documents\Visual Studio 2013\Projects\SmartCDR-PropertyIdenAutomation\PropertyIdentification.Common\bin\Debug\PropertyIdentification.Common.pdb
+C:\Users\Evanthjainh\Documents\Visual Studio 2013\Projects\SmartCDR-PropertyIdenAutomation\PropertyIdentification.Common\bin\Debug\Dapper.dll
+C:\Users\Evanthjainh\Documents\Visual Studio 2013\Projects\SmartCDR-PropertyIdenAutomation\PropertyIdentification.Common\bin\Debug\Dapper.SimpleCRUD.dll
+C:\Users\Evanthjainh\Documents\Visual Studio 2013\Projects\SmartCDR-PropertyIdenAutomation\PropertyIdentification.Common\bin\Debug\NLog.dll
+C:\Users\Evanthjainh\Documents\Visual Studio 2013\Projects\SmartCDR-PropertyIdenAutomation\PropertyIdentification.Common\bin\Debug\Dapper.pdb
+C:\Users\Evanthjainh\Documents\Visual Studio 2013\Projects\SmartCDR-PropertyIdenAutomation\PropertyIdentification.Common\bin\Debug\Dapper.xml
+C:\Users\Evanthjainh\Documents\Visual Studio 2013\Projects\SmartCDR-PropertyIdenAutomation\PropertyIdentification.Common\bin\Debug\Dapper.SimpleCRUD.pdb
+C:\Users\Evanthjainh\Documents\Visual Studio 2013\Projects\SmartCDR-PropertyIdenAutomation\PropertyIdentification.Common\bin\Debug\Dapper.SimpleCRUD.xml
+C:\Users\Evanthjainh\Documents\Visual Studio 2013\Projects\SmartCDR-PropertyIdenAutomation\PropertyIdentification.Common\bin\Debug\NLog.xml
+C:\Users\Evanthjainh\Documents\Visual Studio 2013\Projects\SmartCDR-PropertyIdenAutomation\PropertyIdentification.Common\obj\Debug\PropertyIdentification.Common.dll
+C:\Users\Evanthjainh\Documents\Visual Studio 2013\Projects\SmartCDR-PropertyIdenAutomation\PropertyIdentification.Common\obj\Debug\PropertyIdentification.Common.pdb

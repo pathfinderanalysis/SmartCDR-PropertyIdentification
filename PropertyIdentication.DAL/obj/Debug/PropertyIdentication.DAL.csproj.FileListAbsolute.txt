@@ -1,0 +1,5 @@
+C:\Users\Evanthjainh\Documents\Visual Studio 2013\Projects\SmartCDR-PropertyIdenAutomation\PropertyIdentication.DAL\bin\Debug\PropertyIdentication.DAL.dll.config
+C:\Users\Evanthjainh\Documents\Visual Studio 2013\Projects\SmartCDR-PropertyIdenAutomation\PropertyIdentication.DAL\bin\Debug\PropertyIdentication.DAL.dll
+C:\Users\Evanthjainh\Documents\Visual Studio 2013\Projects\SmartCDR-PropertyIdenAutomation\PropertyIdentication.DAL\bin\Debug\PropertyIdentication.DAL.pdb
+C:\Users\Evanthjainh\Documents\Visual Studio 2013\Projects\SmartCDR-PropertyIdenAutomation\PropertyIdentication.DAL\obj\Debug\PropertyIdentication.DAL.dll
+C:\Users\Evanthjainh\Documents\Visual Studio 2013\Projects\SmartCDR-PropertyIdenAutomation\PropertyIdentication.DAL\obj\Debug\PropertyIdentication.DAL.pdb
